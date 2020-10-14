@@ -1,7 +1,7 @@
 {
 	"@metadata": {
 		"author": "Ellen Spertus <ellen.spertus@gmail.com>",
-		"lastupdated": "2020-09-11 11:10:34.539729",
+		"lastupdated": "2020-10-14 12:12:39.472521",
 		"locale": "en",
 		"messagedocumentation" : "qqq"
 	},
@@ -1523,6 +1523,7 @@
 	"SLOT_TILTED_ANY": "any",
 	"CONNECTOR": "hub",
 	"BRICKNAME_WEDO": "WeDo",
+	"BRICKNAME_ORB": "ORB",
 	"STEPS_PER_REVOLUTION": "steps per revolution",
 	"ROTATIONS_PER_MINUTE": "rpm",
 	"ACTION_SERIAL_PRINT": "show on Serial Monitor",
